@@ -17,4 +17,25 @@
 <img src="https://github.com/ayosuva/SeleniumBDD/blob/main/1.png">
 <img src="https://github.com/ayosuva/SeleniumBDD/blob/main/2.png">
 <img src="https://github.com/ayosuva/SeleniumBDD/blob/main/3.png">
-Yosuva
+
+Jenkins Setup:
+
+**Source Code Management:** Git : https://github.com/ayosuva/SeleniumBDD
+
+**Branches to build:** */main
+
+**Build Triggers:** Poll SCM : * * * * *
+
+**Build :** Execute Windows batch command : mvn -Dtest=Runner test
+
+**E-mail Notification :** 
+Manage Jenkins -> Configure System
+smtp.gmail.com
+Use SMTP Authentication
+Use SSL
+Port:465
+
+
+
+
+
