@@ -18,7 +18,7 @@ import org.openqa.selenium.TakesScreenshot;
 
 public class orderstepdef {
 
-    DriverManager context;
+    DriverManager context
     TshirtPage tshirtPage;
     SignInPage signInPage;
     private Scenario scenario;
