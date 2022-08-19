@@ -18,7 +18,7 @@
 <img src="https://github.com/ayosuva/SeleniumBDD/blob/main/2.png">
 <img src="https://github.com/ayosuva/SeleniumBDD/blob/main/3.png">
 
-Jenkins Setup:
+# Jenkins Setup:
 
 **Source Code Management:** Git : https://github.com/ayosuva/SeleniumBDD
 
@@ -34,8 +34,3 @@ smtp.gmail.com
 Use SMTP Authentication
 Use SSL
 Port:465
-
-
-
-
-
