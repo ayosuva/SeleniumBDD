@@ -3,6 +3,7 @@
 ### Import the project in eclipse as Maven project
 ### To run using IDE, Right-click on Runner class and select Run as JUnit
 ### To run using command line , use command ```mvn clean verify```
+### To run cucumber tests with tags , use command ```mvn clean verify -D"cucumber.filter.tags=@order"```
 ### Html report can be found under target/index.html
  
 # Further Improvements:
